@@ -16,7 +16,7 @@ public class Alumno {
 	private Centro centro;
 	private Asignatura asignatura;
 	
-	
+	//wegwe
 	
 	/* Los constructores son métodos utilizados para instanciar las clases en el método main. Su encapsulación es 'public', ya
 	 * que debemos acceder a ellos desde la clase principal.
